@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a online learning and teaching platform.
+- 🔭 I’m currently working on a online learning and teaching management platform.
 - 🌱 I’m currently learning Livewire Framework.
 - 👯 I’m looking to collaborate on Open-Source projects.
 - 📫 How to reach me: emmanueladedapo2019@gmail.com.
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Manchester United Is The Best Team In The World.
 -->
 
-- 🔭 I’m currently working on an online learning and teaching platform.
+- 🔭 I’m currently working on an online Learning and Teaching management System.
 - 🌱 I’m currently learning Livewire Framework.
 - 👯 I’m looking to collaborate on Open-Source projects.
 - 📫 How to reach me: emmanueladedapo2019@gmail.com.
