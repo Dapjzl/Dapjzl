@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a consultation services website.
-- 🌱 I’m currently learning Piping Design Engineering.
+- 🌱 I'm currently pursuing a Post-Graduate Diploma in Piping Design Engineering.
 - 👯 I’m looking to collaborate on Open-Source projects.
 - 📫 How to reach me: emmanueladedapo2019@gmail.com.
 - 😄 Pronouns: He/Him
