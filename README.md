@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Manchester United Is The Best Team In The World.
 -->
 
-- 🔭 I’m currently designing oil and gas services website.
+- 🔭 I’m currently designing law firm web application with Laravel.
 - 🌱 I'm currently pursuing a Post-Graduate Diploma in Piping Design Engineering.
 - 👯 I’m looking to collaborate on Open-Source projects.
 - 📫 How to reach me: emmanueladedapo2019@gmail.com.
